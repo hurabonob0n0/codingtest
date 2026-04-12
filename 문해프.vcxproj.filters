@@ -66,9 +66,6 @@
     <ClCompile Include="2-5.cpp">
       <Filter>소스 파일\2</Filter>
     </ClCompile>
-    <ClCompile Include="3-6.cpp">
-      <Filter>소스 파일\3</Filter>
-    </ClCompile>
     <ClCompile Include="3-5.cpp">
       <Filter>소스 파일\3</Filter>
     </ClCompile>
@@ -98,6 +95,18 @@
     </ClCompile>
     <ClCompile Include="ex2-3.cpp">
       <Filter>소스 파일\시험공부2</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6.cpp">
+      <Filter>소스 파일\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1.cpp">
+      <Filter>소스 파일\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2.cpp">
+      <Filter>소스 파일\3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3.cpp">
+      <Filter>소스 파일\3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
