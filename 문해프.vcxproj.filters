@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\시험공부2">
       <UniqueIdentifier>{6635cc1b-ad61-49ef-b699-8f9afc46dcdf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\참고용">
+      <UniqueIdentifier>{fcf6d60a-6139-4575-94bd-6ddae251a40d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1-3.cpp">
@@ -107,6 +110,27 @@
     </ClCompile>
     <ClCompile Include="3-3.cpp">
       <Filter>소스 파일\3</Filter>
+    </ClCompile>
+    <ClCompile Include="1260.cpp">
+      <Filter>소스 파일\참고용</Filter>
+    </ClCompile>
+    <ClCompile Include="1697.cpp">
+      <Filter>소스 파일\참고용</Filter>
+    </ClCompile>
+    <ClCompile Include="1991.cpp">
+      <Filter>소스 파일\참고용</Filter>
+    </ClCompile>
+    <ClCompile Include="4963.cpp">
+      <Filter>소스 파일\참고용</Filter>
+    </ClCompile>
+    <ClCompile Include="１.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
