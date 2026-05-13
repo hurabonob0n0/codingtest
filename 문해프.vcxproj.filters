@@ -168,5 +168,17 @@
     <ClCompile Include="6-1.cpp">
       <Filter>소스 파일\6</Filter>
     </ClCompile>
+    <ClCompile Include="6-9.cpp">
+      <Filter>소스 파일\6</Filter>
+    </ClCompile>
+    <ClCompile Include="6-10.cpp">
+      <Filter>소스 파일\6</Filter>
+    </ClCompile>
+    <ClCompile Include="6-3.cpp">
+      <Filter>소스 파일\6</Filter>
+    </ClCompile>
+    <ClCompile Include="6-4.cpp">
+      <Filter>소스 파일\6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
