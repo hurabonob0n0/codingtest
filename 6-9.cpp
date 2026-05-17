@@ -24,9 +24,5 @@ int main()
 			}
 		}
 	}
-
-	for (int i = 0; i < n; ++i)
-		cout << dp[i] << " ";
-
-	cout << endl << *max_element(dp.begin(), dp.end()) << "\n";
+	cout << *max_element(dp.begin(), dp.end()) << "\n";
 }
