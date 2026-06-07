@@ -47,6 +47,3 @@ Release/
 *.aps
 *.opendb
 *.db
-
-*.vcxproj
-*.vcxproj.filters
