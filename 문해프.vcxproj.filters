@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\시험">
       <UniqueIdentifier>{20e480ca-073d-49f5-be21-8791a8d78a61}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\8">
+      <UniqueIdentifier>{631d8029-7467-4006-af97-ae46766f9961}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1-3.cpp">
@@ -236,6 +239,36 @@
     </ClCompile>
     <ClCompile Include="9-4-1.cpp">
       <Filter>소스 파일\9.기타알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1.cpp">
+      <Filter>소스 파일\7</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2.cpp">
+      <Filter>소스 파일\7</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3.cpp">
+      <Filter>소스 파일\7</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4.cpp">
+      <Filter>소스 파일\7</Filter>
+    </ClCompile>
+    <ClCompile Include="7-5.cpp">
+      <Filter>소스 파일\7</Filter>
+    </ClCompile>
+    <ClCompile Include="7-6.cpp">
+      <Filter>소스 파일\7</Filter>
+    </ClCompile>
+    <ClCompile Include="7-7.cpp">
+      <Filter>소스 파일\7</Filter>
+    </ClCompile>
+    <ClCompile Include="8-1.cpp">
+      <Filter>소스 파일\8</Filter>
+    </ClCompile>
+    <ClCompile Include="8-2.cpp">
+      <Filter>소스 파일\8</Filter>
+    </ClCompile>
+    <ClCompile Include="8-3.cpp">
+      <Filter>소스 파일\8</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
