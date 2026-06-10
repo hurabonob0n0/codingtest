@@ -10,7 +10,6 @@ int main() {
     vector<vector<long long>> arr(N + 1, vector<long long>(M + 1, 0));
     vector<vector<long long>> dp(N + 1, vector<long long>(M + 1, 0));
 
-    // 누적합 배열 만들기
     for (int i = 1; i <= N; i++) {
         for (int j = 1; j <= M; j++) {
             cin >> arr[i][j];
@@ -23,7 +22,6 @@ int main() {
     while (K--) {
         int r1, c1, r2, c2;
         cin >> r1 >> c1 >> r2 >> c2;
-        // O(1) 구간합 쿼리
         long long sum = dp[r2][c2] - dp[r1 - 1][c2] - dp[r2][c1 - 1] + dp[r1 - 1][c1 - 1];
         cout << sum << "\n";
     }
